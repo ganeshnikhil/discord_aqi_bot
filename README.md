@@ -1,4 +1,4 @@
 #discord_aqi_bot 
 |  output      | 
 |--------------|
-<img src="sample/1.jpg" width = "600"/>|
+<img src="sample/1.png" width = "600"/>|
